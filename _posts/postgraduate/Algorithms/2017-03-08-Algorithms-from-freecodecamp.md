@@ -473,7 +473,7 @@ e.g. for 1 and 3 - find the smallest common multiple of both 1 and 3 that is eve
 
 #### Way to solve it
 
-要求得给出两数范围内所有的数的最小公倍数，我们可以先求出每两个的公倍数，采用循环就好。问题在于如何求得两数的最小公倍数。经过分析，我们知道两数的最小公倍数`[a,b]= |a*b|/(a,b)`，所以问题转化成求两数的最大公约数，如何求最大公约数，有多种算法，这里采用辗转相除法。代码段发布在[`Github gist`](https://gist.github.com/maoxiaoke/5f1d6e0cfe89666888a822c4af9215bb)上。
+要求得给出两数范围内所有的数的最小公倍数，我们可以先求出每两个的公倍数，采用循环就好。问题在于如何求得两数的最小公倍数。经过分析，我们知道两数的最小公倍数`[a,b]= |a*b|/(a,b)`，所以问题转化成求两数的最大公约数，如何求最大公约数，有多种算法，这里采用辗转相除法。代码段发布在[`Github gist`](https://gist.github.com/qiaoshengchuan/5f1d6e0cfe89666888a822c4af9215bb)上。
 
 #### Code
 

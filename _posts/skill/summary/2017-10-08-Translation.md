@@ -53,8 +53,8 @@ $ git remote add upstream https://github.com/iliakan/javascript-tutorial-cn
 
 ```bash
 $ git remote -v
-origin  https://github.com/maoxiaoke/javascript-tutorial-cn (fetch)
-origin  https://github.com/maoxiaoke/javascript-tutorial-cn (push)
+origin  https://github.com/qiaoshengchuan/javascript-tutorial-cn (fetch)
+origin  https://github.com/qiaoshengchuan/javascript-tutorial-cn (push)
 upstream        https://github.com/iliakan/javascript-tutorial-cn (fetch)
 upstream        https://github.com/iliakan/javascript-tutorial-cn (push)
 ```

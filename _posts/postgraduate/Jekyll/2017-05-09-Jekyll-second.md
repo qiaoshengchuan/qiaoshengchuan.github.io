@@ -100,9 +100,9 @@ tags:
 首先，注册一个新的[OAuth Application](https://github.com/settings/applications/new)。
 
 + Application name : Whatever you like
-+ Homepage URL : 主页地址，比如我的是[http://xiaokedada.com](http://xiaokedada.com)
++ Homepage URL : 主页地址，比如我的是[http://qiaoshengchuan.com](http://qiaoshengchuan.com)
 + Application description : Whatever you like
-+ Authorization callback URL : 这个很重要，比如我的就是[http://xiaokedada.com](http://xiaokedada.com)
++ Authorization callback URL : 这个很重要，比如我的就是[http://qiaoshengchuan.com](http://qiaoshengchuan.com)
 
 然后，就会生成client-id和client-secret，后边需要提供该值。
 
@@ -113,11 +113,11 @@ tags:
 ![gitment]({{ '/styles/images/jekyll/gitment.png' | prepend: site.baseurl }})
 
 + owner: Github ID 或者直接账户昵称经测试都是可以的
-+ repo: 存放comment仓库的名称，名称就好，不要地址。比如我的comments就直接放在博客仓库maoxiaoke.github.io
++ repo: 存放comment仓库的名称，名称就好，不要地址。比如我的comments就直接放在博客仓库qiaoshengchuan.github.io
 + client-id: 你拥有你自己的
 + client-id: 你拥有你自己的
 
-Github ID如何获取呢，访问https://api.github.com/users/GitHub name。比如想查看我的Github信息，访问[https://api.github.com/users/maoxiaoke](https://api.github.com/users/maoxiaoke)就ok了。
+Github ID如何获取呢，访问https://api.github.com/users/GitHub name。比如想查看我的Github信息，访问[https://api.github.com/users/qiaoshengchuan](https://api.github.com/users/qiaoshengchuan)就ok了。
 
 ### 上线
 

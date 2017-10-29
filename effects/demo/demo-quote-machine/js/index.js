@@ -1,5 +1,5 @@
 /**
- * Created by maoxiaoke on 2017/3/20.
+ * Created by qiaoshengchuan on 2017/3/20.
  */
 ///wrap all the code in a IIFE to prevent the global scope pollution;
 ;(function(){
@@ -74,8 +74,8 @@
         composeTweet =  function composeTweet(text) {
             var tweet = {
                 url: "https://twitter.com/intent/tweet?",
-                via: "via=xiaokedada&",
-                hashtags: "hashtags=quotemachine,timi,maoxiaoke&",
+                via: "via=qiaoshengchuan&",
+                hashtags: "hashtags=quotemachine,timi,qiaoshengchuan&",
                 related: "related=@CreativeMarket&",
                 text: "text=" + $('.quote-body').html().replace(/<br>|\s/g, '+')
             };

@@ -171,7 +171,7 @@ Union types用来声明那些可以存储多种类型值的变量。比如，有
 
 ```ts
 let value: string | number;
-value = 'xiaokedada.com'; // ok
+value = 'qiaoshengchuan.com'; // ok
 value = '10'; // ok
 ```
 
@@ -183,7 +183,7 @@ TypeScript使用`type`关键字声明类型别名。
 
 ```ts
 type name = string;
-let a: name = 'maoxiaoke';
+let a: name = 'qiaoshengchuan';
 ```
 
 ### 函数

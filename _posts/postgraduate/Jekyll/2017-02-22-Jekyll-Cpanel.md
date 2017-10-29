@@ -38,7 +38,7 @@ Jekyll可以将纯文本转化为静态网站。[`Github page`](https://pages.gi
 
 因为`Jekyll`是用`Ruby`语言编写的，所以我们需要安装他们。
 
-> 您最好将它加入**系统环境变量**，这样就可以使用**命令行**玩耍了。当然了，`Windows`自带的命令行实在是渣，当然我们有替代工具--[`cmder`](http://cmder.net/)。[官网](http://cmder.net/)你就算用了吃奶的劲也保不定能下下来。这个时候，不要放弃，你可以考虑[`softpedia.com`](http://www.softpedia.com/get/Programming/Other-Programming-Files/Cmder.shtml)或者[`CSDN`](http://download.csdn.net/tag/Cmder)或者向<a href="mailto:maoxiaoke@outlook.com">我</a>索要一份。
+> 您最好将它加入**系统环境变量**，这样就可以使用**命令行**玩耍了。当然了，`Windows`自带的命令行实在是渣，当然我们有替代工具--[`cmder`](http://cmder.net/)。[官网](http://cmder.net/)你就算用了吃奶的劲也保不定能下下来。这个时候，不要放弃，你可以考虑[`softpedia.com`](http://www.softpedia.com/get/Programming/Other-Programming-Files/Cmder.shtml)或者[`CSDN`](http://download.csdn.net/tag/Cmder)或者向<a href="mailto:qiaoshengchuan@163.com">我</a>索要一份。
 
 ### 安装Jekyll
 

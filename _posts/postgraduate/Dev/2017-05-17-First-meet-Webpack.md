@@ -15,7 +15,7 @@ tag: Webpack
 
 代码`Github`地址：
 
-+ [https://github.com/maoxiaoke/You-know-what-is-webpack](https://github.com/maoxiaoke/You-know-what-is-webpack)
++ [https://github.com/qiaoshengchuan/You-know-what-is-webpack](https://github.com/qiaoshengchuan/You-know-what-is-webpack)
 
 想不到`webpack`比我想象中要难一点。
 

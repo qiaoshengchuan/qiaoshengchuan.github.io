@@ -1,10 +1,10 @@
 # Site settings
-name: 小可嗒嗒的博客
-email: maoxiaoke@outlook.com
-author: M/J
-url: http://xiaokedada.com
-resume_site: http://xiaokedada.com/me/
-github: https://github.com/maoxiaoke/
+name: 乔胜传的博客
+email: qiaoshengchuan@163.com
+author: LaoQiao
+url: http://qiaoshengchuan.com
+resume_site: http://qiaoshengchuan.com/me/
+github: https://github.com/qiaoshengchuan/
 baseurl: ""  #根目录
 description: 假如生活欺骗了你，不要悲伤，不要哭泣。
 motto: 我们笑着说再见，却深知再见遥遥无期。
@@ -17,11 +17,11 @@ paginate: 8
 paginate_path: "page:num"
 gems: [jekyll-paginate]
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
-github_username: maoxiaoke
+github_username: qiaoshengchuan
 highlighter: rouge
 markdown: kramdown
 FB:
   comments :
     provider : disqus
     disqus :
-        short_name : xiaokedada
+        short_name : qiaoshengchuan

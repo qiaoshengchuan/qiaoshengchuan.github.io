@@ -245,10 +245,10 @@ function foo(url, timeout = 2000, method = function () {return 'xiaoke'}){
     console.log(url, timeout,method());
 }
 foo();                                      //(1) undefined 2000 'xiaoke'
-foo('http://xiaokedada.com');               //(2) http://xiaokedada.com 2000 xiaoke
-foo('http://xiaokedada.com', 400);          //(3) http://xiaokedada.com 400 xiaoke
-foo('http://xiaokedada.com', undefined,function bar(){return 'yuer'});  //(4) http://xiaokedada.com 2000 yuer
-foo('http://xiaokedada.com', null,function bar(){return 'yuer'});       //(5) http://xiaokedada.com null yuer
+foo('http://qiaoshengchuan.com');               //(2) http://qiaoshengchuan.com 2000 xiaoke
+foo('http://qiaoshengchuan.com', 400);          //(3) http://qiaoshengchuan.com 400 xiaoke
+foo('http://qiaoshengchuan.com', undefined,function bar(){return 'yuer'});  //(4) http://qiaoshengchuan.com 2000 yuer
+foo('http://qiaoshengchuan.com', null,function bar(){return 'yuer'});       //(5) http://qiaoshengchuan.com null yuer
 ```
 
 总结一下：

@@ -39,7 +39,7 @@ hyphens: auto;
   <dt>Name:</dt>
   <dd>xiaoke Mao</dd>
   <dt>Email:</dt>
-  <dd>maoxiaoke@outlook.com</dd>
+  <dd>qiaoshengchuan@163.com</dd>
   <dd>thebigyellowbee@qq.com</dd>
   <dt>Location:</dt>
   <dd>NanKing</dd>
@@ -48,7 +48,7 @@ hyphens: auto;
 
 不过，`<dt>`和`<dd>`都是块级元素。所以所有的名和值都会占据一行。我们可以用`display: inline`将它们变成行内元素。
 
-<iframe width="100%" height="300" src="//jsfiddle.net/maoxiaoke/Lzp3b33s/3/embedded/html,css,result/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+<iframe width="100%" height="300" src="//jsfiddle.net/qiaoshengchuan/Lzp3b33s/3/embedded/html,css,result/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
 
 看上面的`css`代码，我们解决问题的思路是怎样的呢？
 
@@ -65,7 +65,7 @@ hyphens: auto;
 
 `:nth-child()/:nth-of-type()`这样的伪类，我们解决了表格的*斑马条纹*。如果我们也想给文本提供这样的条纹呢，怎么解决。
 
-<iframe width="100%" height="300" src="//jsfiddle.net/maoxiaoke/pxrwka2h/3/embedded/html,css,result/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+<iframe width="100%" height="300" src="//jsfiddle.net/qiaoshengchuan/pxrwka2h/3/embedded/html,css,result/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
 
 ---
 
@@ -81,7 +81,7 @@ hyphens: auto;
 
 这是一种早期的垂直居中方法，要求元素*具有固定的宽度和高度*。
 
-<iframe width="100%" height="300" src="//jsfiddle.net/maoxiaoke/6mf6emfj/embedded/html,css,result/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+<iframe width="100%" height="300" src="//jsfiddle.net/qiaoshengchuan/6mf6emfj/embedded/html,css,result/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
 
 关键代码如下：
 
@@ -120,7 +120,7 @@ main {
 
 `Flexbox`(弹性盒)是专门针对这类需求设计的。
 
-<iframe width="100%" height="300" src="//jsfiddle.net/maoxiaoke/nk9e74vL/1/embedded/html,css,result/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+<iframe width="100%" height="300" src="//jsfiddle.net/qiaoshengchuan/nk9e74vL/1/embedded/html,css,result/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
 
 关键代码如下：
 
@@ -143,7 +143,7 @@ main {
 
 有了弹性盒之后，我们对这个问题也有很好的处理。
 
-<iframe width="100%" height="300" src="//jsfiddle.net/maoxiaoke/d5zk6eLp/1/embedded/html,css,result/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+<iframe width="100%" height="300" src="//jsfiddle.net/qiaoshengchuan/d5zk6eLp/1/embedded/html,css,result/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
 
 关键代码：
 
@@ -168,7 +168,7 @@ main {
 
 毛玻璃效果经常在`Apple`公司的设计中使用。
 
-<iframe width="100%" height="300" src="//jsfiddle.net/maoxiaoke/bufyh93b/1/embedded/html,css,result/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+<iframe width="100%" height="300" src="//jsfiddle.net/qiaoshengchuan/bufyh93b/1/embedded/html,css,result/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
 
 核心代码在这里：
 
@@ -194,4 +194,4 @@ main::before {
 
 我们通过模糊来把关键元素之外的一切元素都模糊掉，可以营造一种*景深*效果：当我们的实现聚焦再距离较近的物体上是，远处的背景就是虚化的。
 
-<iframe width="100%" height="300" src="//jsfiddle.net/maoxiaoke/Lmuoqtmy/1/embedded/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+<iframe width="100%" height="300" src="//jsfiddle.net/qiaoshengchuan/Lmuoqtmy/1/embedded/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>

@@ -15,7 +15,7 @@ tag: Webpack
 
 代码`Github`地址：
 
-+ [https://github.com/maoxiaoke/You-know-what-is-webpack](https://github.com/maoxiaoke/You-know-what-is-webpack)
++ [https://github.com/qiaoshengchuan/You-know-what-is-webpack](https://github.com/qiaoshengchuan/You-know-what-is-webpack)
 
 当然了，`webpack`也可以对`CSS`文件进行打包，将其作为模块引入到`JavaScript`代码中，然后利用`Loader`输出。本篇文章主要针对的就是对`CSS`的操作。
 

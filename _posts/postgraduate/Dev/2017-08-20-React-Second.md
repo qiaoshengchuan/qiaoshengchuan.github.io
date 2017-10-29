@@ -264,7 +264,7 @@ module.exports = {
 
 ---
 
-好。现在我们完整的代码已经上传至 [react-webpack-es6-jsx](https://github.com/maoxiaoke/react-webpack-es6-jsx)。
+好。现在我们完整的代码已经上传至 [react-webpack-es6-jsx](https://github.com/qiaoshengchuan/react-webpack-es6-jsx)。
 
 ---
 
@@ -357,7 +357,7 @@ export default Tab;
 ...
 ```
 
-代码放在 [react-webpack-es6-jsx](https://github.com/maoxiaoke/react-webpack-es6-jsx/tree/hmr) 的 `hmr` 分支上。
+代码放在 [react-webpack-es6-jsx](https://github.com/qiaoshengchuan/react-webpack-es6-jsx/tree/hmr) 的 `hmr` 分支上。
 
 ---
 

@@ -15,7 +15,7 @@ tag: Webpack
 
 代码`Github`地址：
 
-+ [https://github.com/maoxiaoke/You-know-what-is-webpack](https://github.com/maoxiaoke/You-know-what-is-webpack)
++ [https://github.com/qiaoshengchuan/You-know-what-is-webpack](https://github.com/qiaoshengchuan/You-know-what-is-webpack)
 
 
 这里呢，打算将所有和`html`有关的操作都集合到这篇文章中来，用来熟悉`webpack`对`html`的操作。

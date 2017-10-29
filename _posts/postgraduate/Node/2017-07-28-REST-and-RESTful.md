@@ -86,7 +86,7 @@ RESTful API的目的呢，就是通过一套统一的接口，为web、ios和and
 
 而RESTful API的设计有一些best practice:
 
-+ 最好为所有的API断点指定一个前缀，比如`xiaokedada.com/api`
++ 最好为所有的API断点指定一个前缀，比如`qiaoshengchuan.com/api`
 + URI使用名词而不是动词，且推荐使用复数
 + 全部小写，推荐使用连字符
 + 使用正确的HTTP方法

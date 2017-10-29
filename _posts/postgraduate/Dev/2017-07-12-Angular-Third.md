@@ -13,7 +13,7 @@ Angular系列教程:
 + [Angular4第一课 -- 启动]({{ '/2017/07/04/First-Meet-Angular' | prepend: site.baseurl }})
 + [Angular4第二课 -- 基本概念解析]({{ '/2017/07/06/Angular-Second' | prepend: site.baseurl }})
 
-为了学习Angular，实现了主页教程的`Heroes`例子。代码放在仓库[Angular4-heroes](https://github.com/maoxiaoke/Angular4-heroes)下。但是，希望写单独为此写一篇的目的在于，这是一个非常好的例子，通过这个例子，我们可以详细地了解Angular有关**表单**、**服务**、**注入**、**HTTP**、**路由**等概念，所以非常值得初学者学习。
+为了学习Angular，实现了主页教程的`Heroes`例子。代码放在仓库[Angular4-heroes](https://github.com/qiaoshengchuan/Angular4-heroes)下。但是，希望写单独为此写一篇的目的在于，这是一个非常好的例子，通过这个例子，我们可以详细地了解Angular有关**表单**、**服务**、**注入**、**HTTP**、**路由**等概念，所以非常值得初学者学习。
 
 <!-- more -->
 

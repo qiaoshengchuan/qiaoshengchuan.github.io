@@ -1,10 +1,10 @@
-# 关于这个Jekyll模板主题 ⚽⚽⚽
+# 关于这个Jekyll模板主题
 
 ## 预览
 
 ### 首页
 
-![首页](https://github.com/maoxiaoke/maoxiaoke.github.io/blob/master/styles/images/blog/blog.png?raw=true)
+![首页](https://github.com/qiaoshengchuan/qiaoshengchuan.github.io/blob/master/styles/images/blog/blog.png?raw=true)
 
 + 首页: 博客首页
 + 博文分类: 按照categories对文章进行分类
@@ -16,7 +16,7 @@
 
 ### 文章页
 
-![文章页](https://github.com/maoxiaoke/maoxiaoke.github.io/blob/master/styles/images/blog/page.png?raw=true)
+![文章页](https://github.com/qiaoshengchuan/qiaoshengchuan.github.io/blob/master/styles/images/blog/page.png?raw=true)
 
 ---
 
@@ -26,19 +26,19 @@
 
 博客使用[`Simple-Jekyll-Search`](https://github.com/christian-fei/Simple-Jekyll-Search)提供全文搜索功能。
 
-相关介绍和操作可参考: [加入搜索功能](http://xiaokedada.com/2017/05/09/Jekyll-second/#加入搜索功能)
+相关介绍和操作可参考: [加入搜索功能](http://qiaoshengchuan.com/2017/05/09/Jekyll-second/#加入搜索功能)
 
 ### 提供百度统计功能
 
 博客使用[百度统计](https://tongji.baidu.com/web/welcome/login)提供统计功能。具体操作方法在官网有详细介绍。
 
-相关介绍和操作可参考: [添加网站统计](http://xiaokedada.com/2017/05/09/Jekyll-second/#添加网站统计)
+相关介绍和操作可参考: [添加网站统计](http://qiaoshengchuan.com/2017/05/09/Jekyll-second/#添加网站统计)
 
 ### 提供不蒜子pv/uv计数器
 
 [不蒜子](http://busuanzi.ibruce.info/)可以提供pv/uv的计数。好处在于可以在界面上显示访问量。
 
-相关介绍和操作可参考: [网页的pv/uv计数器](http://xiaokedada.com/2017/05/09/Jekyll-second/#网页的pvuv计数器)
+相关介绍和操作可参考: [网页的pv/uv计数器](http://qiaoshengchuan.com/2017/05/09/Jekyll-second/#网页的pvuv计数器)
 
 ### 添加社会化评论功能
 
@@ -46,17 +46,17 @@
 
 博客采用第三方评论平台[Gitment](https://github.com/imsun/gitment)
 
-相关介绍和操作可参考: [社会化评论](http://xiaokedada.com/2017/05/09/Jekyll-second/#社会化网页评论)
+相关介绍和操作可参考: [社会化评论](http://qiaoshengchuan.com/2017/05/09/Jekyll-second/#社会化网页评论)
 
 ### 使用canvas实现首页动态效果
 
 ### 使用日历控件显示当前日期
 
-[在线演示](http://xiaokedada.com/effects/demo/demo-calender/index.html)
+[在线演示](http://qiaoshengchuan.com/effects/demo/demo-calender/index.html)
 
 ### 使用tagCloud控件实现云标签效果
 
-[在线演示](http://xiaokedada.com/effects/demo/demo-tagscloud/index.html)
+[在线演示](http://qiaoshengchuan.com/effects/demo/demo-tagscloud/index.html)
 
 ---
 
@@ -66,12 +66,12 @@
 
 相关的内容我写了两篇文章可供参考
 
-+ [基于Jekyll静态框架的Github站点设计](http://xiaokedada.com/2017/02/22/Jekyll-Cpanel/)
-+ [Jekyll搭建博客--人类补完计划](http://xiaokedada.com/2017/05/09/Jekyll-second/)
++ [基于Jekyll静态框架的Github站点设计](http://qiaoshengchuan.com/2017/02/22/Jekyll-Cpanel/)
++ [Jekyll搭建博客--人类补完计划](http://qiaoshengchuan.com/2017/05/09/Jekyll-second/)
 
 ### 部署和安装
 
-请参考[Jekyll相关](http://xiaokedada.com/2017/02/22/Jekyll-Cpanel/#jekyll相关)。
+请参考[Jekyll相关](http://qiaoshengchuan.com/2017/02/22/Jekyll-Cpanel/#jekyll相关)。
 
 ### 下载本博客源码
 
@@ -107,7 +107,7 @@ tag: JavaScript
 {:toc}
 ```
 
-多tag可参考文章:[加入多个标签](http://xiaokedada.com/2017/05/09/Jekyll-second/#如何加入多个标签)
+多tag可参考文章:[加入多个标签](http://qiaoshengchuan.com/2017/05/09/Jekyll-second/#如何加入多个标签)
 
 > 备注一: Jekyll使用时间对文章进行排序，所以无论如何建立文件夹和文件夹命名都行，你开心就好
 
@@ -129,7 +129,7 @@ $ jekyll s
 $ jekyll build
 ```
 
-> 备注: 草稿区的内容不会显示，如果想要对草稿去内容进行查看，可参考[开启草稿](http://xiaokedada.com/2017/05/09/Jekyll-second/#jekyll的一些使用技巧)
+> 备注: 草稿区的内容不会显示，如果想要对草稿去内容进行查看，可参考[开启草稿](http://qiaoshengchuan.com/2017/05/09/Jekyll-second/#jekyll的一些使用技巧)
 
 ### 发布
 
@@ -178,13 +178,13 @@ Copyright © 2017 M/J. All rights reserved.
 
 您可以选择手机支付宝扫一扫
 
-<img src="https://github.com/maoxiaoke/maoxiaoke.github.io/blob/master/styles/images/zhifubao.jpg?raw=true" alt="支付宝二维码付款给小可嗒嗒" />
+<img src="https://github.com/qiaoshengchuan/qiaoshengchuan.github.io/blob/master/styles/images/zhifubao.jpg?raw=true" alt="支付宝二维码付款给小可嗒嗒" />
 
 ### 赞助方式2： 微信扫一扫
 
 您可以选择手机微信扫一扫
 
-![微信二维码付款给小可嗒嗒](https://github.com/maoxiaoke/maoxiaoke.github.io/blob/master/styles/images/wechat.jpg?raw=true)
+![微信二维码付款给小可嗒嗒](https://github.com/qiaoshengchuan/qiaoshengchuan.github.io/blob/master/styles/images/wechat.jpg?raw=true)
 
 ### 赞助名单
 

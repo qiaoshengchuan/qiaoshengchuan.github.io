@@ -78,7 +78,7 @@ abbr {text-decoration: none;}
 </ol>
 <hr><h4 class="btn btn-primary btn-lg">博客</h4><hr>
 <ol class="rounded-list">
-<li><a href="http://xiaokedada.com/" target="_blank">小可嗒嗒的博客</a></li>
+<li><a href="http://qiaoshengchuan.com/" target="_blank">小可嗒嗒的博客</a></li>
 <li><a href="http://ghmagical.com/" target="_blank">TG的博客</a></li>
 </ol>
 <hr><h4 class="btn btn-info btn-lg">各大公司的前端站点</h4><hr>

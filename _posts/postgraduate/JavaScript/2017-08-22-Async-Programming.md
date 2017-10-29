@@ -16,7 +16,7 @@ tag: JavaScript
 
 ```js
 //ajax() 是某个包中任意的 Ajax 函数
-ajax ('http://xiaokedada.com',function callbackFunction(data){
+ajax ('http://qiaoshengchuan.com',function callbackFunction(data){
     //应答代码
 });
 ```
@@ -149,7 +149,7 @@ function success(data) {
 function failure(err) {
     //handler error
 }
-ajax('http://xiaokedada.com', success, failure);
+ajax('http://qiaoshengchuan.com', success, failure);
 ```
 
 API 设计的时候通过分离回调，例如上面的例子，一个用于成功的通知，一个用于错误的通知。

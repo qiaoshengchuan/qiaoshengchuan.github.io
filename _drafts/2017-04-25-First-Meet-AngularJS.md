@@ -232,7 +232,7 @@ app.controller('FirstController',function($scope){
     var app = angular.module("app",[]);
     app.controller("MainController", function ($scope) {
         $scope.persons = [{
-            name: "Maoxiaoke", age: 26, sex: "male"
+            name: "qiaoshengchuan", age: 26, sex: "male"
         },{
             name: "Chentata", age: 25, sex: "female"
         },{
@@ -303,7 +303,7 @@ app.controller('FirstController',function($scope){
     var app = angular.module("app",[]);
     app.controller("MainController", function ($scope) {
         $scope.persons = [{
-            name: "Maoxiaoke", age: 26, sex: "male"
+            name: "qiaoshengchuan", age: 26, sex: "male"
         },{
             name: "Chentata", age: 25, sex: "female"
         },{

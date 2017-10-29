@@ -81,7 +81,7 @@ new Map([iterable])
 
 ```js
 var dic = new Map();
-dic.set('timi','maoxiaoke@outlook.com');
+dic.set('timi','qiaoshengchuan@163.com');
 dic.set('maoxioake','thebigyellowbee@qq.com');
 dic.set('yuer','yuer@xiaoke.com');
 ```
@@ -116,8 +116,8 @@ console.log(dic['timi']);
 
 | 键 | 散列函数 | 散列值 | 散列表 |
 |:---:|:----:|:----:|:----:|
-| timi | lose lose | 116+105+109+105=435 | [435] maoxiaoke@outlook.com 
-| maoxiaoke | lose lose | 958 | [453] thebigyellowbee@qq.com
+| timi | lose lose | 116+105+109+105=435 | [435] qiaoshengchuan@163.com 
+| qiaoshengchuan | lose lose | 958 | [453] thebigyellowbee@qq.com
 | yuer | lose lose | 121+117+101+114=453 | [958] yuer@xiaoke.com
 
 在散列值对应的[435]、[453]、[958]位置上，有对应的值。在其他的散列值位置上，是空值。所以说，**散列表是普通数组的推广**，这样你就可以像使用数组下标一样(这种说法可能有纰漏)使用字典了。
