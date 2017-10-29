@@ -178,13 +178,13 @@ Copyright © 2017 M/J. All rights reserved.
 
 您可以选择手机支付宝扫一扫
 
-<img src="https://github.com/qiaoshengchuan/qiaoshengchuan.github.io/blob/master/styles/images/zhifubao.jpg?raw=true" alt="支付宝二维码付款给小可嗒嗒" />
+<img src="https://github.com/qiaoshengchuan/qiaoshengchuan.github.io/blob/master/styles/images/zhifubao.jpg?raw=true" alt="支付宝二维码付款给乔胜传" />
 
 ### 赞助方式2： 微信扫一扫
 
 您可以选择手机微信扫一扫
 
-![微信二维码付款给小可嗒嗒](https://github.com/qiaoshengchuan/qiaoshengchuan.github.io/blob/master/styles/images/wechat.jpg?raw=true)
+![微信二维码付款给乔胜传](https://github.com/qiaoshengchuan/qiaoshengchuan.github.io/blob/master/styles/images/wechat.jpg?raw=true)
 
 ### 赞助名单
 
